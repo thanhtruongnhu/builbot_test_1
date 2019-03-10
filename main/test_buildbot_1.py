@@ -12,9 +12,9 @@ class Employee:
     def apply_raise(self):
         self.pay = int(self.pay*1.04)
 
-#if __name__ == "__main__":
-   # Staff_1 = Employee('Son','Le',50000)
-    #Staff_2 = Employee('Truong','Nhu',60000)
-    #print(Staff_1.first)
-    #print(Staff_1.fullname())
-    #print("SUCCESS")
+if __name__ == "__main__":
+    Staff_1 = Employee('Son','Le',50000)
+    Staff_2 = Employee('Truong','Nhu',60000)
+    print(Staff_1.first)
+    print(Staff_1.fullname())
+    print("SUCCESS")
