@@ -1,6 +1,6 @@
 """Sample Test"""
 
-from main import hello
+#from main import hello
 
 a = "Truong"
 print(a)
