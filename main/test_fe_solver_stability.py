@@ -562,3 +562,4 @@ if __name__ == "__main__":
                    use_parallel_mesh_stitching=args.use_parallel_mesh_stitching,
                    compare_component_solutions=args.compare_component_solutions,
                    do_not_use_component_datasets=args.do_not_use_component_datasets)
+    print("FINISH !")
