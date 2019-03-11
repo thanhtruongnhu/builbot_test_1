@@ -3,6 +3,6 @@
 from main import hello
 
 a = "Truong"
-print(hello(a))
+print(a)
 print("Finished !")
 
